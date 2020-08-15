@@ -1,3 +1,2 @@
 "hello world"
-
-<main>hello world
+hello world
